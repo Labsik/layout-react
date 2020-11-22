@@ -1,0 +1,19 @@
+.topics .topic-list {
+  display: flex;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+}
+
+.topic {
+  margin-right: 10px;
+  margin-bottom: 10px;
+  border: 1px solid silver;
+  padding: 5px 20px;
+  border-radius: 30px;
+  background-color: #eee;
+  white-space: nowrap;
+}
+
+input {
+  margin: 3px;
+}

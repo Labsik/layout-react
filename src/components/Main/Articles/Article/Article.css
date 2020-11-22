@@ -1,0 +1,25 @@
+.article {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  margin-bottom: 10px;
+}
+
+.article .topic-article {
+  font-size: 14px;
+  color: #000;
+}
+.article .desc {
+  font-size: 12px;
+}
+.article .tags {
+  color: red;
+}
+
+.article .title {
+  font-style: 16px;
+}
+
+.article .additional-info {
+  opacity: 0.6;
+}
